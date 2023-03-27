@@ -25,9 +25,7 @@ enables, at least, the following:
 
 Write down all the requests your API will accept and respond to for this task. Include sample 
 request body (where applicable) and response with response body (where applicable). We 
-are assuming the Content-Type is application/json. An example of a request and response is 
-shown below. You can use the same simplified request and response format below. Note 
-that I am specifying just the relative path (i.e., from the base URL)
+are assuming the Content-Type is application/json. 
 
 ### BUILT WITH
 * [Flask](https://flask.palletsprojects.com/en/2.2.x/)
