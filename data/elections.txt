@@ -1,0 +1,21 @@
+[
+  {
+    "election_id": "2",
+    "election_name": "MCF Elections",
+    "election_startdate": "12 June",
+    "election_enddate": "20 July",
+    "candidates": [
+      {
+        "president": [
+          "James",
+          "Job",
+          "Jessica"
+        ],
+        "vice president": [
+          "Hebert",
+          "Drake"
+        ]
+      }
+    ]
+  }
+]

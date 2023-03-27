@@ -1,0 +1,26 @@
+[
+  {
+    "election_id": "2",
+    "results": [
+      {
+        "president": {
+          "James": 1,
+          "Job": "0",
+          "Jessica": "0",
+          "voters": [
+            "1"
+          ]
+        }
+      },
+      {
+        "vice president": {
+          "Hebert": "0",
+          "Drake": 1,
+          "voters": [
+            "1"
+          ]
+        }
+      }
+    ]
+  }
+]

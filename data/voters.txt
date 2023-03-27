@@ -1,0 +1,8 @@
+[
+  {
+    "name": "TInotenda Alfaneti",
+    "student_id": "1",
+    "class": "2024",
+    "major": "Computer Science"
+  }
+]
