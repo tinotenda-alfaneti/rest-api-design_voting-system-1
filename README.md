@@ -3,7 +3,7 @@
 
 <h3 align="center">REST API DESIGN ~ LAB 4</h3>
 <br/>
-<h4>Tinotenda Rodney Alfaneti - 69352024</h4>
+<h4 align="center">Tinotenda Rodney Alfaneti - 69352024</h4>
 
 <!-- ABOUT THE PROJECT -->
 ## LAB PROMPT
